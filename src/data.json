@@ -1,0 +1,28 @@
+[
+  {
+    "title": "First blog title",
+    "text": "the bddy of the blog",
+    "image": "https://www.google.nl/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "comments": [
+      {
+        "user": "nasir",
+        "commentBody": "This is not funny."
+      },
+      {
+        "user": "User2",
+        "commentBody": "User2 comment"
+      }
+    ]
+  },
+  {
+    "title": "Second blog title",
+    "text": "seconds blog",
+    "image": "http://www.dumpaday.com/wp-content/uploads/2015/05/a-funny-teachers-1.png",
+    "comments": [
+      {
+        "user": "Sarbast",
+        "commentBody": "My comment is the best."
+      }
+    ]
+  }
+]
